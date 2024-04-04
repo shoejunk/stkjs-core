@@ -1,0 +1,15 @@
+{
+    "name": "stkjs-core",
+    "version": "0.0.1",
+    "description": "The Shoejunk Tool Kit for JavaScript Core Library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shoejunk/stkjs-core.git"
+    },
+    "license": "MIT",
+    "author": "Shoejunk Industries",
+    "dependencies": {
+        "jquery": "^3.7.1"
+    },
+    "main": "./main.mjs"
+}
